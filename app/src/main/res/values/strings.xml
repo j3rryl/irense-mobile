@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">iRense</string>
+    <string name="login_title">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="username_input">Enter your username</string>
+    <string name="password_input">Enter your password</string>
+
+
 </resources>
