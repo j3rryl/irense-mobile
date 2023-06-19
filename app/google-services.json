@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169728835334",
+    "project_id": "irense-587e9",
+    "storage_bucket": "irense-587e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169728835334:android:4211a73816226bcf15a887",
+        "android_client_info": {
+          "package_name": "com.example.irense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169728835334-arhcikg4khc0od5a7fcg66f1bin6s37j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKdILvqq3ol8SZHSAlZwkZPL-35toz9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169728835334-arhcikg4khc0od5a7fcg66f1bin6s37j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
