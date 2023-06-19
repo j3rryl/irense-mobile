@@ -37,7 +37,14 @@ class LoginActivity : AppCompatActivity() {
             } else {
                 Toast.makeText(this, "Fill in all fields.", Toast.LENGTH_LONG).show()
             }
+        }
+    }
 
+    override fun onStart() {
+        super.onStart()
+        if(firebaseAuth.currentUser!=null){
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
         }
     }
 }
