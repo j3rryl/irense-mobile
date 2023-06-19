@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
         bottomNavigation.add(MeowBottomNavigation.Model(1, R.drawable.person))
         bottomNavigation.add(MeowBottomNavigation.Model(2, R.drawable.bar_chart))
         bottomNavigation.add(MeowBottomNavigation.Model(3, R.drawable.list))
+        bottomNavigation.show(2,true);
+
 
     }
 }
